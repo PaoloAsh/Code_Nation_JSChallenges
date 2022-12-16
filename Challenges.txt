@@ -1,0 +1,19 @@
+Create Repository in GitHub called JSChallenges.
+
+Add a file to challenges folder
+
+Add all files / activities worked on so far to Github.
+
+Git Status
+
+Git add
+
+Git status
+
+git commit -m "firstcommit"
+
+git push
+
+git status
+
+
